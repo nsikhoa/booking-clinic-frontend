@@ -1,0 +1,15 @@
+.verify-email-container {
+  height: 90vh;
+  background-color: #eee;
+  padding: 10px;
+  .verify-email-content {
+    .verify-email-text {
+      text-align: center;
+      color: #003d4d;
+      font-size: 16px;
+      text-transform: uppercase;
+      font-weight: 600;
+      font-style: italic;
+    }
+  }
+}

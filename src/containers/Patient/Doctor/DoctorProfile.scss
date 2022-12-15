@@ -1,0 +1,32 @@
+.doctor-detail-introduction {
+  display: grid;
+  // justify-content: space-around;
+  grid-template-columns: 100px auto;
+  column-gap: 20px;
+  row-gap: 10px;
+
+  .content-left {
+    // width: 20%;
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border-radius: 50%;
+    margin: 10px 20px;
+  }
+  .content-right {
+    width: 80%;
+
+    .content-right-up {
+      font-size: 20px;
+      font-weight: bold;
+    }
+    .content-right-down {
+    }
+  }
+
+  .price {
+    grid-column: 2/-1;
+  }
+}

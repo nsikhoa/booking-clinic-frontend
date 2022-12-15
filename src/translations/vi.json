@@ -1,0 +1,79 @@
+{
+  "home-header": {
+    "specialty": "Chuyên khoa",
+    "clinic": "Phòng khám",
+    "doctor": "Bác sĩ",
+    "fee": "Gói khám",
+    "support": "Hỗ trợ",
+    "welcome": "Xin chào"
+  },
+
+  "banner": {
+    "title-short": "Nền tảng y tế",
+    "title-long": "Chăm sóc sức khỏe toàn diện",
+    "child1": "Khám chuyên khoa",
+    "child2": "Khám tổng quát",
+    "child3": "Bác sĩ"
+  },
+
+  "home-content": {
+    "specialty": "Các chuyên khoa",
+    "clinic": "Các phòng khám",
+    "doctor": "Bác sĩ nổi bật",
+    "handbook": "Cẩm nang",
+    "more": "Xem thêm"
+  },
+
+  "home-footer": {
+    "copyright": "Bản quyền bởi",
+    "moreInfo": "Thông tin cá nhân"
+  },
+
+  "menu": {
+    "admin": {
+      "manage-user": "Người dùng",
+      "manage-doctor": "Quản lý bác sĩ",
+      "manage-admin": "Quản lý admin",
+      "crud": "Quản lý tài khoản",
+      "clinic": "Phòng khám",
+      "manage-clinic": "Quản lý phòng khám",
+      "specialty": "Chuyên khoa",
+      "manage-specialty": "Quản lý chuyên khoa",
+      "handbook": "Cẩm nang",
+      "manage-handbook": "Quản lý cẩm nang"
+    },
+    "doctor": {
+      "manage-schedule": "Quản lý lịch khám",
+      "manage-schedule-patient": "Quản lý lịch khám bệnh nhân"
+    },
+    "patient": {
+      "patient-history": "Lịch sử khám bệnh"
+    }
+  },
+  "manage-user": {
+    "add": "Thêm mới người dùng",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "fullname": "Họ và tên",
+    "phone-number": "Số điện thoại",
+    "address": "Địa chỉ",
+    "gender": "Giới tính",
+    "position": "Học vị",
+    "role": "Vai trò",
+    "image": "Ảnh đại diện",
+    "save": "Lưu",
+    "edit": "Cập nhật"
+  },
+
+  "manage-schedule": {
+    "title": "Quản lý lịch khám"
+  },
+
+  "manage-doctor": {
+    "title": "Quản lý thông tin bác sĩ",
+    "choose-doctor": "Chọn bác sĩ cần sửa đổi thông tin",
+    "introduction-info": "Thông tin giới thiệu bác sĩ",
+    "save": "Lưu thông tin",
+    "edit": "Sửa thông tin"
+  }
+}

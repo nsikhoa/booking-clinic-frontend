@@ -1,0 +1,78 @@
+{
+  "home-header": {
+    "specialty": "Medical specialty",
+    "clinic": "Clinic",
+    "doctor": "Doctor",
+    "fee": "Checkup package",
+    "support": "Support",
+    "welcome": "Welcome"
+  },
+
+  "banner": {
+    "title-short": "Medical platform",
+    "title-long": "Comprehensive health care",
+    "child1": "Specialist examination",
+    "child2": "General examination",
+    "child3": "Doctor"
+  },
+
+  "home-content": {
+    "specialty": "Medical specialties",
+    "clinic": "Clinics",
+    "doctor": "Doctors",
+    "handbook": "Handbook",
+    "more": "More"
+  },
+
+  "home-footer": {
+    "copyright": "Copyright by",
+    "moreInfo": "More information"
+  },
+
+  "menu": {
+    "admin": {
+      "manage-user": "Manage users",
+      "manage-doctor": "Manage doctor",
+      "manage-admin": "Manage admins",
+      "crud": "Manage accounts",
+      "clinic": "Clinics",
+      "manage-clinic": "Manage clinics",
+      "specialty": "Medical specialties",
+      "manage-specialty": "Manage specialties",
+      "handbook": "Handbooks",
+      "manage-handbook": "Manage handbooks"
+    },
+    "doctor": {
+      "manage-schedule": "Manage medical schedule",
+      "manage-schedule-patient": "Manage patient schedule"
+    },
+    "patient": {
+      "patient-history": "Medical history"
+    }
+  },
+  "manage-user": {
+    "add": "Create new user",
+    "email": "Email",
+    "password": "Password",
+    "fullname": "Fullname",
+    "phone-number": "Phone number",
+    "address": "Address",
+    "gender": "Gender",
+    "position": "Major",
+    "role": "Role",
+    "image": "Avatar",
+    "save": "Save user",
+    "edit": "Update user"
+  },
+  "manage-schedule": {
+    "title": "Manage schedule"
+  },
+
+  "manage-doctor": {
+    "title": "Manage doctor's information",
+    "choose-doctor": "Choose doctor to modify infomation",
+    "introduction-info": "Doctor's introduction information",
+    "save": "Save info",
+    "edit": "Update info"
+  }
+}

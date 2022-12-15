@@ -1,0 +1,18 @@
+.manage-doctor-container {
+  padding: 10px;
+  .manage-doctor-editor {
+  }
+
+  .more-info {
+    display: grid;
+    grid-template-columns: 0.7fr 1fr;
+    column-gap: 15px;
+    .more-info-content-left {
+    }
+    .more-info-content-right {
+      textarea {
+        // width: 50%;
+      }
+    }
+  }
+}

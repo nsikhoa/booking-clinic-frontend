@@ -1,0 +1,58 @@
+.detail-specialty-container {
+  .detail-specialty-body {
+    padding: 0 100px;
+
+    .specialty-title {
+      // height: 100px;
+      // border: 1px solid green;
+      margin: 5px 0 15px;
+      // box-shadow: 1px 1px 4px 2px #e0e0e0;
+      .clinic-name {
+        font-size: 24px;
+        text-transform: uppercase;
+        font-weight: 600;
+      }
+
+      .clinic-address {
+        font-size: 16px;
+        font-style: italic;
+      }
+    }
+
+    .specialty-doctor {
+      display: flex;
+      padding: 20px;
+      margin-bottom: 16px;
+      box-shadow: 1px 1px 4px 2px #e0e0e0;
+      .specialty-doctor-left {
+        width: 100%;
+      }
+      .specialty-doctor-right {
+        width: 100%;
+
+        .content-right-doctor {
+          display: flex;
+          flex-direction: column;
+
+          .info-doctor-container {
+            margin-left: 0 !important;
+          }
+
+          .schedule-doctor-container {
+            margin-bottom: 32px !important;
+          }
+        }
+      }
+    }
+  }
+  .specialty-select {
+    margin-bottom: 20px;
+
+    .select-province {
+      height: 30px;
+      outline: none;
+      border: 1px solid #aaa;
+      border-radius: 3px;
+    }
+  }
+}
